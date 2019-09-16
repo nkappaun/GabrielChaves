@@ -2,9 +2,9 @@
 ## Projeto Trainee, Code Jr, 2019.2
 
 Desenvolvedores:
-- Alexande
+- Alexande Vieira
 - Henrique
-- Pedro
+- Pedro Henrique
 - Nádia
 
 
