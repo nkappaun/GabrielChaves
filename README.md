@@ -2,10 +2,10 @@
 ## Projeto Trainee, Code Jr, 2019.2
 
 Desenvolvedores:
-- Alexande Vieira
-- Henrique
-- Pedro Henrique
-- Nádia
+- Alexande Pacelli
+- Henrique Silva
+- Pedro Reis
+- Nádia Kappaun
 
 
 Scrum Master:
